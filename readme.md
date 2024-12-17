@@ -13,25 +13,25 @@ This is a Node.js API for signing PDF documents using certificates. The API allo
 ## Setup Instructions
 
 1. Clone the repository:
-
+   ```bash
    git clone https://github.com/linkzy/pdf-signer-api.git
    cd pdf-signer-api
 
 2. Install dependencies:
-
+   ```bash
    npm install
 
 3. Set up environment variables:
 
    Create a `.env` file in the root of the project and add the following:
-
+   ```env
    API_SECRET_TOKEN=your-secret-token
 
 4. Run the application:
-
+   ```bash
    npm start
 
-   The API will be available at `http://localhost:3000`.
+The API will be available at `http://localhost:3000`.
 
 ## API Documentation
 
@@ -63,19 +63,20 @@ This endpoint allows you to sign a PDF document with a P12 certificate.
 
 - **500 Internal Server Error**: If there is an error signing the PDF.
 
+
 ## Docker Setup
 
 ### Building and Running the Docker Image
 
 1. Build the Docker image:
-
+   ```bash
    docker build -t pdf-signer-api .
 
 2. Run the Docker container:
-
+   ```bash
    docker run -d -p 3000:3000 -e API_SECRET_TOKEN=your-secret-token pdf-signer-api
 
-   The API will be available at `http://localhost:3000`.
+The API will be available at `http://localhost:3000`.
 
 ### Deploying with Docker Compose
 
