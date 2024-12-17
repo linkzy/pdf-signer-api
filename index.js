@@ -5,18 +5,19 @@ const { plainAddPlaceholder } = require('@signpdf/placeholder-plain');
 const { default: signpdf } = require('@signpdf/signpdf');
 const { P12Signer } = require('@signpdf/signer-p12');
 
+// Initialize Express application
 const app = express();
 const port = process.env.PORT || 3000;
 const secretToken = process.env.API_SECRET_TOKEN;
 
 if (!secretToken) {
-    throw new Error('API_SECRET_TOKEN environment variable is not set. Please configure it before starting the application.');
+    throw new Error('API_SECRET_TOKEN environment variable is not set.');
 }
 
 // Middleware to parse JSON request bodies
 app.use(express.json());
 
-// Middleware for token validation
+// Middleware for validating the API token
 app.use((req, res, next) => {
     const authHeader = req.headers['authorization'];
     if (!authHeader || authHeader !== `Bearer ${secretToken}`) {
