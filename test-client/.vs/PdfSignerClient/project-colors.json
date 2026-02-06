@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e381d229-76f6-4982-85b1-a47e430a9745": {
+      "ProjectGuid": "e381d229-76f6-4982-85b1-a47e430a9745",
+      "DisplayName": "PdfSignerClient",
+      "ColorIndex": 0
+    },
+    "44272fbb-9941-4801-a575-a8d2e7944122": {
+      "ProjectGuid": "44272fbb-9941-4801-a575-a8d2e7944122",
+      "DisplayName": "PdfSignerClient",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

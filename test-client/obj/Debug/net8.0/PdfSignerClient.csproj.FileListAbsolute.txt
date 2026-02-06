@@ -1,0 +1,17 @@
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\bin\Debug\net8.0\PdfSignerClient.exe
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\bin\Debug\net8.0\PdfSignerClient.deps.json
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\bin\Debug\net8.0\PdfSignerClient.runtimeconfig.json
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\bin\Debug\net8.0\PdfSignerClient.dll
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\bin\Debug\net8.0\PdfSignerClient.pdb
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\obj\Debug\net8.0\PdfSignerClient.csproj.AssemblyReference.cache
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\obj\Debug\net8.0\PdfSignerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\obj\Debug\net8.0\PdfSignerClient.AssemblyInfoInputs.cache
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\obj\Debug\net8.0\PdfSignerClient.AssemblyInfo.cs
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\obj\Debug\net8.0\PdfSignerClient.csproj.CoreCompileInputs.cache
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\obj\Debug\net8.0\PdfSignerClient.csproj.CopyComplete
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\obj\Debug\net8.0\PdfSignerClient.dll
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\obj\Debug\net8.0\refint\PdfSignerClient.dll
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\obj\Debug\net8.0\PdfSignerClient.pdb
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\obj\Debug\net8.0\PdfSignerClient.genruntimeconfig.cache
+C:\Users\678180.MGR\Desktop\Testes\PdfSignerClient\obj\Debug\net8.0\ref\PdfSignerClient.dll
